@@ -1,3 +1,5 @@
+SKYHELPER V1.6
+
 FEATURES:
 
 **/SKY TO OPEN MENU**
@@ -9,3 +11,13 @@ FEATURES:
 **Bazaar Helper** - Tells you when a buy/sell order is outdated, shows you margins for flips.
 
 **Skyhelper+** This is a paid version of the mod with more accurate timing, less delay, and generally better flips. costs $5 usd for life. (DM catboy#9167 for purchase inquiries)
+
+
+
+1.6 CHANGELOGS:
+
++ Fixed a crash bug with SBE.
++ Mod should not crash with Fancy Graphics anymore.
+
+- removed BinSniper for a bit. Currently being revamped as it was quite buggy.
+
