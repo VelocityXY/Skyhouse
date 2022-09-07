@@ -18,6 +18,7 @@ FEATURES:
 
 + Fixed a crash bug with SBE.
 + Mod should not crash with Fancy Graphics anymore.
++ Fixed a few typos.
 
-- removed BinSniper for a bit. Currently being revamped as it was quite buggy.
+- Removed Bin Sniper for a bit. Currently being revamped as it was quite buggy.
 
