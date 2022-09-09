@@ -1,4 +1,4 @@
-**SKYHELPER V1.6.0**
+**SKYFLIP V1.6.0**
 
 FEATURES:
 
