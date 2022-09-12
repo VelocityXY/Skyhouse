@@ -10,7 +10,7 @@ FEATURES:
 
 **Bazaar Helper** - Tells you when a buy/sell order is outdated, shows you margins for flips.
 
-**Skyhelper+** This is a paid version of the mod with more accurate timing, less delay, and generally better flips. costs $5 usd for life. (DM catboy#9167 for purchase inquiries)
+**Skyhelper+** This is a paid version of the mod with more accurate timing, less delay, and generally better flips. costs $5 usd for life. (DM frfrnotfake#6406 for purchase inquiries)
 
 
 
